@@ -1,8 +1,8 @@
 # wii.hacks.guide
 
-The complete guide to modding your Nintendo Wii.
+A mirror of the complete guide to modding your Nintendo Wii (and Wii mini).
 
-https://wii.hacks.guide/
+https://funnynnuf.github.io/wii/
 
 ## Running the site locally
 
