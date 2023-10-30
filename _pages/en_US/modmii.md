@@ -46,9 +46,10 @@ Alternatively, you can launch the SysCheck Updater Wizard (`SU`) from ModMii's m
 ### HackMii Solutions Wizard
 
 The HackMii Solutions wizard can help fix symptoms like these:
-    + HackMii Installer not prompting "Press (1) to continue"
-    + HackMii Installer says "no vulnerable IOS found!"
-    + Homebrew Channel is displaying upside-down
+
++ HackMii Installer not prompting "Press (1) to continue"
++ HackMii Installer says "no vulnerable IOS found!"
++ Homebrew Channel is displaying upside-down
 
 It will install clean IOSs to allow for the HackMii Installer to operate properly.
 
@@ -61,7 +62,7 @@ This wizard allows you to enjoy many of the benefits of a softmodded Wii without
 It will allow you to launch an exploit to boot an from emulated NAND from external storage, rather than use your Wii's internal NAND.
 
 You can also make a NAND backup without modifying your Wii at all by navigating to ModMii's "Support" folder and launching `Casper2BootMii.bat`. <br>
-It will save some files to a folder named `COPY_TO_SD`; copy the files inside it to your SD card and [launch an exploit](get-started).
+It will save some files to a folder named `COPY_TO_SD`; copy the files inside it to your SD card and launch an exploit like [Wilbrand](wilbrand).
 
 When following one of the exploit guides above, avoid replacing the `boot.elf` file.
 {: .notice--warning}
