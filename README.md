@@ -1,8 +1,8 @@
-# https://mirrormirrorontheweb.github.io/switch
+# https://mirrormirrorontheweb.github.io/wii
 
 A mirror of the complete guide to modding your Nintendo Wii (and Wii mini).
 
-https://mirrormirrorontheweb.github.io/switch/
+https://mirrormirrorontheweb.github.io/wii
 
 ## Running the site locally
 
